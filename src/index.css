@@ -1,0 +1,98 @@
+body {
+    background-color:white;
+    font-family: Arial, sans-serif;
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  
+  #header {
+    background-color: #0047ab; 
+    color: white;
+    padding: 20px; 
+    text-align: center;
+  }
+  .Bar {
+    text-align:center; 
+    padding: 10px; 
+    margin: auto; 
+    width: 100%; 
+    background-color: #f0f0f0; 
+    border-radius: 5px; 
+  }
+  .Add{
+    margin:auto;
+    text-align:center;
+    width: 75%;}
+   .table-container {
+    margin: 20px auto; 
+    width: 80%; 
+    border-collapse: collapse; 
+  }
+  
+  
+  .table-container th {
+    background-color: #007bff; 
+    color: #fff;
+    padding: 10px; 
+    text-align: center; 
+  }
+  
+  
+  .table-container td {
+    padding: 10px; 
+    text-align: center; 
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .head input { 
+    width: 50%; 
+    padding: 10px; 
+    margin-bottom: 10px; 
+    font-size: 16px; 
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+  }
+  .Add {
+    display: block; 
+    width: 100%; 
+    padding: 16px; 
+    background-color: #007bff; 
+    color: #fff;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+  }
+  
+  form-container {
+    margin: 20px auto; 
+    width: 80%;
+  }
+  
+  
+  .form-container input {
+    display: block; 
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 10px; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px;
+  }
+  
+  
+  .form-container button {
+    display: block; 
+    width: 100%; 
+    padding: 10px; 
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
+  
+  
+  
+  
